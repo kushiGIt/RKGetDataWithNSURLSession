@@ -42,5 +42,7 @@ RKGetDataWithNSURLSession
     NSLog(@"%@",urlStr);
     NSLog(@"%@",error);
     
-   }
+    }
+    
+I finished support.So,there is a possibility that no longer operate correctly .
 
